@@ -12,7 +12,7 @@ Hello, my name is Jhonne Ramos. I am a backend developer with extensive experien
 </div>
 
 ### Main Skills
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge"/> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge"/><img alt="PHP" src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge"/> <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge"/><img alt="PHP" src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 
 ### Social
 
