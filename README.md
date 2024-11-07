@@ -1,5 +1,7 @@
 ## Welcome!
 
+
+jhonnne sem ideais
  ### **Português**
 Olá, meu nome é Jhonne Ramos. Sou desenvolvedor backend com vasta experiência em FiveM e outras plataformas de jogos. Tenho paixão por criar soluções digitais inovadoras e personalizadas, sempre buscando superar expectativas e entregar resultados que impactem positivamente os projetos em que estou envolvido.
 
